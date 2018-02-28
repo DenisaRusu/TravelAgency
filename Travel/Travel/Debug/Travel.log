@@ -1,0 +1,56 @@
+﻿  UI.c
+d:\college\projects\travelagency\travel\travel\ui.c(7): warning C4013: 'malloc' undefined; assuming extern returning int
+d:\college\projects\travelagency\travel\travel\ui.c(13): warning C4013: 'free' undefined; assuming extern returning int
+d:\college\projects\travelagency\travel\travel\ui.c(73): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\college\projects\travelagency\travel\travel\ui.c(75): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\college\projects\travelagency\travel\travel\ui.c(77): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\college\projects\travelagency\travel\travel\ui.c(92): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\college\projects\travelagency\travel\travel\ui.c(108): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\college\projects\travelagency\travel\travel\ui.c(111): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\college\projects\travelagency\travel\travel\ui.c(180): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\college\projects\travelagency\travel\travel\ui.c(193): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\college\projects\travelagency\travel\travel\ui.c(198): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\college\projects\travelagency\travel\travel\ui.c(209): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+d:\college\projects\travelagency\travel\travel\ui.c(273): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  OperationStack.c
+d:\college\projects\travelagency\travel\travel\operationstack.c(8): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\college\projects\travelagency\travel\travel\operationstack.c(24): warning C4013: 'malloc' undefined; assuming extern returning int
+d:\college\projects\travelagency\travel\travel\operationstack.c(32): warning C4013: 'free' undefined; assuming extern returning int
+d:\college\projects\travelagency\travel\travel\operationstack.c(38): warning C4013: 'realloc' undefined; assuming extern returning int
+d:\college\projects\travelagency\travel\travel\operationstack.c(51): warning C4033: 'pop' must return a value
+  OfferRepo.c
+d:\college\projects\travelagency\travel\travel\offerrepo.c(8): warning C4013: 'malloc' undefined; assuming extern returning int
+d:\college\projects\travelagency\travel\travel\offerrepo.c(22): warning C4013: 'free' undefined; assuming extern returning int
+d:\college\projects\travelagency\travel\travel\offerrepo.c(28): warning C4013: 'realloc' undefined; assuming extern returning int
+  OfferController.c
+d:\college\projects\travelagency\travel\travel\offercontroller.c(7): warning C4013: 'malloc' undefined; assuming extern returning int
+d:\college\projects\travelagency\travel\travel\offercontroller.c(14): warning C4013: 'free' undefined; assuming extern returning int
+d:\college\projects\travelagency\travel\travel\offercontroller.c(23): warning C4028: formal parameter 4 different from declaration
+d:\college\projects\travelagency\travel\travel\offercontroller.c(23): warning C4028: formal parameter 5 different from declaration
+d:\college\projects\travelagency\travel\travel\offercontroller.c(23): warning C4029: declared formal parameter list different from definition
+  Offer.c
+d:\college\projects\travelagency\travel\travel\offer.c(26): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\college\projects\travelagency\travel\travel\offer.c(27): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: see declaration of 'strcpy'
+d:\college\projects\travelagency\travel\travel\offer.c(51): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: see declaration of 'sprintf'
+  main.c
+d:\college\projects\travelagency\travel\travel\main.c(18): warning C4013: 'testOfferRepoDynamic' undefined; assuming extern returning int
+d:\college\projects\travelagency\travel\travel\main.c(29): warning C4013: '_CrtDumpMemoryLeaks' undefined; assuming extern returning int
+  Generating Code...
+d:\college\projects\travelagency\travel\travel\operationstack.c(54): warning C4715: 'pop': not all control paths return a value
+d:\college\projects\travelagency\travel\travel\ui.c(50): warning C4715: 'dateValidator': not all control paths return a value
+  Travel.vcxproj -> D:\College\Projects\TravelAgency\Travel\Debug\Travel.exe
